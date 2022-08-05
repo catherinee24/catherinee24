@@ -10,7 +10,7 @@
 
 If you are reading me and you have doubts about whether you want to learn but it scares you or something stops you, I want to tell you that you can achieve everything you put your mind to. The community is very large and you will never feel alone on this path to web development. ✨
 
-📸 [[Instagram]](https://instagram.com/catellatech)
+### 📸 [[Instagram]](https://instagram.com/catellatech)
 
 
 <!--

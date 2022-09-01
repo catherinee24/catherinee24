@@ -4,7 +4,7 @@
 
 - 💥 I’m currently learning Full Stack Web development With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
 
-- 📫 How to reach me: catherinemendez24@gmail.com 😄
+- 📫 How to reach me: catellatech@gmail.com 😄
 
 - ✨ Fun fact: Before starting in the world of programming I was very skeptical because I knew absolutely nothing. 👯 My sister @gab0071 encouraged me to enter this beautiful world that I am passionate about today. What can I say after 4 months, I have many skills that I never thought I had and every day I love being a programmer and contributing to technology more. I'm 23 years old and my journey in this lovely challenging world is just beginning !!
 

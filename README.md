@@ -31,7 +31,7 @@
 
 ### Repositorios TOP 💫
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=Rhode-Project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/Rhode-Project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=rhode-project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/rhode-project)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=hardhat-erc20-token&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/hardhat-erc20-token)
 
 

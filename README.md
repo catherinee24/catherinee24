@@ -5,13 +5,32 @@
 
 - 💥Ccurrently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
 
-- 📫 How to reach me: catellatech@gmail.com 😄
+<h3>Programming Languages & Technologie</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
-- ✨ Fun fact: Before starting in the world of programming I was very skeptical because I knew absolutely nothing. 👯 My sister @gab0071 encouraged me to enter this beautiful world that I am passionate about today. What can I say after 4 months, I have many skills that I never thought I had and every day I love being a programmer and contributing to technology more. I'm 23 years old and my journey in this lovely challenging world is just beginning !!
+### Github Stats
 
-If you are reading me and you have doubts about whether you want to learn but it scares you or something stops you, I want to tell you that you can achieve everything you put your mind to. The community is very large and you will never feel alone on this path to web development. ✨
+<table>
+  <tr>
+ <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catherinee24&theme=radical&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
+    
+   <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=catherinee24&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
+</table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catherinee24&show_icons=true&theme=radical)
+
+
 
 ### 📸 [[Instagram]](https://instagram.com/catellatech)
 

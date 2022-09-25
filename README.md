@@ -29,7 +29,7 @@
    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=catherinee24&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
-### Repositorios TOP 💫
+### Repositories TOP 💫
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=rhode-project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/rhode-project)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=hardhat-erc20-token&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/hardhat-erc20-token)

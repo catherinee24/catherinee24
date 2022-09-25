@@ -36,23 +36,23 @@
 
 
 ## Connect with me:
-<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
 
-<a href="https://discord.gg/XTW52Kt" rel="nofollow">
+<a href="https://discord.gg/catherine#1019" rel="nofollow">
   <img align="left" alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
+<a href="https://twitter.com/cathe_90" rel="nofollow">
   <img align="left" alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.linkedin.com/in/catherine mendes/" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
- <a href="mailto:jhoanburbano@unicauca.edu.co">
+ <a href="mailto:catellatech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 

@@ -1,11 +1,6 @@
 ## Hi there 👋 I'am Catherine Mendes!
 
-
-- ✔ I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
-
-- 💥Ccurrently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
-
-<h3>Programming Languages & Technologie</h3>
+<h3>Programming Languages & Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -20,7 +15,12 @@
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
-### Github Stats
+
+- I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
+
+- Ccurrently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
+
+### Github Stats 📶
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=catherinee24&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
-### Repositorios TOP
+### Repositorios TOP 💫
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=Rhode-Project&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/Rhode-Project)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=hardhat-erc20-token&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/hardhat-erc20-token)

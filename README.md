@@ -1,5 +1,9 @@
-## Hi there 👋 I'am Catherine Mendes!
+## Hi there I'am Catherine Mendes! 🙋🏽‍♀️
 
+I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓
+
+I have worked on projects, from creating an ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community 🎉. I have overcome challenges like CryptoZombie to continue strengthening my skills
+Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶
 <h3>Programming Languages & Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -16,10 +20,6 @@
 </p>
 
 
-- I just finished the Full Stack Web3 development on FreeCodeCamp with @PatrickAlphaC !! If you want to learn as well, here the Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ ⚡⚡
-
-- Ccurrently I was accepted to study the Full-Stack development career in the bootcamp With https://github.com/soyHenry to improving my Skills in this space, and become a full developer!! 
-
 ### Github Stats 📶
 
 <table>
@@ -35,7 +35,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=catherinee24&repo=hardhat-erc20-token&bg_color=40,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/catherinee24/hardhat-erc20-token)
 
 
-## Connect with me:
+## I'm excited I get to build, learn, and create! Feel free to message me:
 <a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
@@ -52,7 +52,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
 
- <a href="mailto:catellatech@gmail.com">
+ <a href="mailto:catherinemendez24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 

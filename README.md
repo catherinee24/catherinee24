@@ -1,6 +1,6 @@
-## Hi there I'am Catherine Mendes! 🙋🏽‍♀️
+## Hey guys It's Catherine Mendes! 🙋🏽‍♀️
 
-I am passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓
+I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓
 
 I have worked on projects, from creating an ERC20 token, to a dapp, using technologies such as hardhat, ethersjs, remix, etherscan, alchemy rpc, among others... All these projects were carried out in the academic field, with the help of FreeCodeCamp with @PatrickAlphaC and the web3 community 🎉. I have overcome challenges like CryptoZombie to continue strengthening my skills
 Currently I continue to prepare myself, to have a solid foundation in #solidity and the construction of good practices for the creation of future projects and thus improve my technical skills.📶

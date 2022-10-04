@@ -1,3 +1,8 @@
+<p>
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
+</p>
+
+
 <h1 align= "center"><strong>Hey guys, It's Catherine Mendes! 🙋🏽‍♀️</stron></h1>
 
 <p align ="justify">I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓</p>

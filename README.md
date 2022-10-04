@@ -36,7 +36,7 @@ Currently I continue to prepare myself, to have a solid foundation in #solidity 
 </table>
 
 <h1 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h1>
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">
   <img alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
@@ -58,7 +58,13 @@ Currently I continue to prepare myself, to have a solid foundation in #solidity 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  
-</div>
+</div> -->
+
+<div align="center">
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34" align="center">](https://github.com/catherinee24) |    [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34" align="center">](https://twitter.com/cathe_90)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24" align="center">](https://www.linkedin.com/in/blockchain-developer-catherine-mendes/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24" align="center">](catherinemendez24@gmail.com)
+|---|---|---|---|
+  </div>
 
 
 <br />

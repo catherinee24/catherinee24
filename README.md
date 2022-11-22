@@ -1,19 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Catherine!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=f2163e&font=Peralta">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Catherine!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=F57b89&font=Peralta">
 </h1>
 
 <p align ="justify">I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓</p>
 
 <h3 align="center">Programming Languages & Technologies</h3>
 <p aling="justify">
+  <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
+  <img src="https://img.shields.io/badge/Web3.js-F7DF1E?style=for-the-badge&logo=web3dotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Ethers.js-F7DF1E?style=for-the-badge&logo=ethersdotjs&logoColor=2535a0">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">

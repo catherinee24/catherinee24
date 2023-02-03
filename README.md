@@ -35,7 +35,7 @@
   <img  alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
 
-<a href="https://twitter.com/cathe_90" rel="nofollow">
+<a href="https://twitter.com/0xcathe" rel="nofollow">
   <img  alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
 

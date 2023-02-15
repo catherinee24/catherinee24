@@ -2,18 +2,31 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web3+dev+and+auditor!;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=F57b89&font=Peralta">
 </h1>
 
-<p align ="justify">I'm passionate about blockchain technology and all the innovation I find in this space. I am focused on building in this #web3 ecosystem, and being able to contribute to the growth and innovation of this technology. 💻⛓</p>
+## About me 
+- 👋 Hi, I'm Catherine.
+- 🚀 Web3 Builder | Solidity
+- 🔐 Security Researcher
+- 🌱 I'm currently learning and working as a auditor.
+- 🎯 2023 Goals: top 100 code4rena.
 
-<h3 align="center">Programming Languages & Technologies</h3>
-<p aling="justify">
-  <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
-  <img src="https://img.shields.io/badge/Web3.js-F7DF1E?style=for-the-badge&logo=web3dotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/Ethers.js-F7DF1E?style=for-the-badge&logo=ethersdotjs&logoColor=2535a0">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Hardhat-fcba03?style=for-the-badge&logo=hardhat&logoColor=fcba03">
-  
-</p>
+## Web3 Security 
 
+### Audits
+
+- Warden at Code4rena | 🚧 **To Be Released**
+
+### Solidity CTF Solutions & Writeups
+
+- [Damn Vulnerable DeFi](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
+- [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
+
+### Bootcamps
+
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
+- [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
+
+## Programming Languages & Technologies
+- 🚀 **Solidity** | **Javascriop** | **Hardhat** | **Foudry** | 
 
 ### Github Stats 📶
 

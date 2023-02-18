@@ -27,7 +27,7 @@
 - [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
 
 ## Programming Languages & Technologies
-- 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foudry** | 
+- 🚀 **Solidity** | **Javascript** | **Hardhat** | **Foundry** | 
 
 ### Github Stats 📶
 

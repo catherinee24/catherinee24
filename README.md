@@ -5,7 +5,7 @@
 ## About me 
 - 👋 Hi, I'm Catherine.
 - 🚀 Web3 Builder | Solidity
-- 🔐 Security researcher
+- 🔐 Security Researcher
 - 🌱 I'm currently learning and working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xcathe) 

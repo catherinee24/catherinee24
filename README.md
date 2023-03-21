@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web3+dev+and+auditor!;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=F57b89&font=Peralta">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web3+Dev+And+Auditor 💫;&font=Fira%20Code&center=true&width=680&height=100&duration=4000&pause=1000&size=40&color=F57b89&font=Peralta">
 </h1>
 
 ## About me 

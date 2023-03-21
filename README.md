@@ -7,7 +7,7 @@
 - 🚀 Web3 Builder | Solidity
 - 🔐 Security Researcher
 - 🌱 I'm Currently learning and working as a Auditor.
-- 🎯 2023 Goals: top 100 code4rena.
+- 🎯 2023 Goals: top 100 Code4rena.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xcathe) 
 
 ## Web3 Security 

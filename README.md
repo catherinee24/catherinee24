@@ -27,7 +27,7 @@
    <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=catherinee24&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
 </table>
 
-<h1 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h1>
+<h1 align="center">I'm thrilled to contribute to making the Web-3 space safer! Feel free to message me: </h1>
 <!-- <div align="center">
 
 <a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34" align="center">](https://github.com/catherinee24) |    [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34" align="center">](https://twitter.com/0xcathe)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24" align="center">](https://www.linkedin.com/in/web3-developer-catherine-mendes/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24" align="center">](mailto:catherinemendez24@gmail.com)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34" align="center">](https://github.com/catherinee24) |    [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34" align="center">](https://twitter.com/cathemaverick)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24" align="center">](https://www.linkedin.com/in/web3-developer-catherine-mendes/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24" align="center">](mailto:catherinemendez24@gmail.com)
 |---|---|---|---|
   </div>
 

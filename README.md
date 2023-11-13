@@ -1,5 +1,5 @@
 ## About me 
-- 👋 Hi, I'm Catherine.
+- 👋 Hi, It's Catherine.
 - 🚀 Web3 Builder | Solidity
 - 🔐 Security Researcher
 - 🌱 I'm Currently learning and working as a Auditor.

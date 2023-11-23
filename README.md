@@ -18,16 +18,7 @@
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
 
-### Github Stats 📶
-
-<table align="center">
-  <tr>
- <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catherinee24&theme=radical&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
-    
-   <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=catherinee24&theme=radical&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
-</table>
-
-<h1 align="center">I'm thrilled to contribute to making the Web-3 space safer! Feel free to message me: </h1>
+<h1 align="center"> ✨ I'm thrilled to contribute to making the Web-3 space safer! Feel free to message me: </h1>
 <!-- <div align="center">
 
 <a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">

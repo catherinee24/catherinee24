@@ -1,4 +1,4 @@
-## About me 
+## Personal Information ✨
 - 👋 Hi, It's Catherine
 - 🚀 Web3 Builder | Solidity
 - 🔐 Security Researcher
@@ -6,13 +6,13 @@
 - 🎯 2023 Goals: top 100 Code4rena.
 - 📫 You can reach me on [Twitter](https://twitter.com/cathemaverick) 
 
-## Web3 Security 
+## Web3 Security ✨
 
-### Audits
+### Audits ✨
 
 - Helping Protect Protocols at Code4rena & Catellatech | 
 
-### Solidity CTF Solutions & Writeups
+### Solidity CTF Solutions & Writeups 
 
 - [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)

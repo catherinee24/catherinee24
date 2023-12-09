@@ -1,10 +1,10 @@
 ## Personal Information ✨
-- 👋 Hi, It's Catherine
+- 👋 Hi, It's Catherine.
 - 🚀 Web3 Builder | Solidity
 - 🔐 Security Researcher
 - 🌱 I'm Currently learning and working as a Auditor
 - 🎯 2023 Goals: top 100 Code4rena
-- 📫 You can reach me on [Twitter](https://twitter.com/cathemaverick) 
+- 📫 You can reach me on [Twitter](https://twitter.com/cathemaverick)
 
 ## Web3 Security ✨
 

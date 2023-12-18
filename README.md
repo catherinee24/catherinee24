@@ -10,7 +10,7 @@
 
 ### Audits ✨
 
-- Helping Protect Protocols at Code4rena & Catellatech | 
+- Helping Protect Protocols at Code4rena & Catellatech.
 
 ### Solidity CTF Solutions & Writeups 
 

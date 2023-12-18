@@ -8,7 +8,7 @@
 
 ## Web3 Security ✨
 
-### Audits ✨
+### Audits 🔒
 
 - Helping Protect Protocols at Code4rena & Catellatech.
 

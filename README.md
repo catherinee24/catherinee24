@@ -1,8 +1,6 @@
 ## Personal Information ✨
 - 👋 Hi, It's Catherine.
-- 🔐 Web3 Security Researcher.
-- 🌱 I'm Currently learning and working as a Auditor.
-- 🎯 2024 Goals: top 50 Code4rena.
+- 🔐 Web3 Security Researcher and Developer.
 - 📫 You can reach me on [Twitter](https://twitter.com/cathemaverick)
 
 ## Web3 Security ✨

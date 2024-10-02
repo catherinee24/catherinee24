@@ -1,65 +1,40 @@
-## Personal Information ✨
-- 👋 Hi, It's Catherine.
-- 🔐 Web3 Security Researcher and Developer.
-- 📫 You can reach me on [Twitter](https://twitter.com/cathemaverick)
+<h1 align="center">👋 Hi, I'm Catherine</h1>
+<h3 align="center">🔐 Web3 Security Researcher and Developer</h3>
 
-## Web3 Security ✨
+<p align="center">
+  <a href="https://twitter.com/cathemaverick" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/cathemaverick?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/catherinee24" target="_blank">
+    <img src="https://img.shields.io/github/followers/catherinee24?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
+
+## About Me ✨
+
+I'm passionate about making the Web3 space safer through my work in security research and smart contract auditing. My expertise includes:
+
+- Smart contract vulnerability assessment
+- Blockchain security best practices
+- Solidity development and optimization
+
+## Web3 Security Work 🛡️
 
 ### Audits 🔒
-
-- Helping Protect Protocols at Code4rena & Catellatech.
+- Contributing to protocol security at [Code4rena](https://code4rena.com/) & [Catellatech](https://catellatech.com)
 
 ### Solidity CTF Solutions & Writeups 💡
 - [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
 
-<h1 align="center"> ✨ I'm thrilled to contribute to making the Web-3 space safer! Feel free to message me: </h1>
-<!-- <div align="center">
+## Let's Connect! 🌐
 
-<a href="https://www.instagram.com/itscatherinemendes/" rel="nofollow">
-  <img alt="Abhishek's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
+<p align="center">
+  <a href="https://github.com/catherinee24" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@catherinee24-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://twitter.com/cathemaverick" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@cathemaverick-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/web3-developer-catherine-mendes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Catherine_Mendes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:catherinemendez24@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-catherinemendez24@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+</p>
 
-<a href="https://discord.gg/catherine#1019" rel="nofollow">
-  <img  alt="Abhishek's Discord" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-</a>
-
-<a href="https://twitter.com/0xcathe" rel="nofollow">
-  <img  alt="Abhishek Naidu | Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-</a>
-
-<a href="https://www.linkedin.com/in/blockchain-developer-catherine-mendes/" rel="nofollow">
-  <img  alt="Abhishek's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-</a>
-
- <a href="mailto:catherinemendez24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
- 
-</div> -->
-
-<div align="center">
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34" align="center">](https://github.com/catherinee24) |    [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34" align="center">](https://twitter.com/cathemaverick)  |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24" align="center">](https://www.linkedin.com/in/web3-developer-catherine-mendes/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24" align="center">](mailto:catherinemendez24@gmail.com)
-|---|---|---|---|
-  </div>
-
-
-<br />
-
-
-<!--
-**catherinee24/catherinee24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">✨ I'm thrilled to contribute to making the Web3 space safer! Feel free to reach out. ✨</h3>

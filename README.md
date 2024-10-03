@@ -28,6 +28,12 @@ I'm passionate about making the Web3 space safer through my work in security res
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
 
+## Continuous Learning 📚
+
+I'm committed to staying up-to-date with the latest developments in Solidity and smart contract security. Currently, I'm enhancing my skills through:
+
+- [Updraft Cyfrin](https://updraft.cyfrin.io/courses): Mastering best practices in Solidity development and smart contract security
+
 ## Let's Connect! 🌐
 
 <p align="center">
